@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="75" height="77" viewBox="0 0 75 77">
+  <g id="chocolateVerde" transform="translate(-119 -109)">
+    <g id="Elipse_23" data-name="Elipse 23" transform="translate(119 109)" fill="none" stroke="#22a297" stroke-width="3">
+      <ellipse cx="37.5" cy="38.5" rx="37.5" ry="38.5" stroke="none"/>
+      <ellipse cx="37.5" cy="38.5" rx="36" ry="37" fill="none"/>
+    </g>
+    <g id="chocolate" transform="translate(142.996 127.5)">
+      <path id="Caminho_25" data-name="Caminho 25" d="M1529.515,699.462v-8.691a1.151,1.151,0,0,0-1.151-1.151h-17.5a1.151,1.151,0,0,0-1.151,1.151v17.065" transform="translate(-1505.771 -687.12)" fill="none" stroke="#22a297" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Caminho_26" data-name="Caminho 26" d="M1657.19,762.91" transform="translate(-1633.447 -750.568)" fill="none" stroke="#22a297" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Caminho_27" data-name="Caminho 27" d="M1523.63,770.652l-3.541,2.126a9.246,9.246,0,0,1-1.591.757L1511.1,776a12.506,12.506,0,0,0-4.134,2.494l-2.552,2.82a.884.884,0,0,1-1.477-.474,27.755,27.755,0,0,1-.125-5.357l1.152-2.7,1.783-2.072a8.809,8.809,0,0,1,4.719-2.244l4.968-.179a9.166,9.166,0,0,0,2.771-.537l2.347-.845a6.119,6.119,0,0,0,1.189-.581l1.269-1.144a.7.7,0,0,1,.955.2l.387.818a4.756,4.756,0,0,1,0,3.415Z" transform="translate(-1499.74 -752.44)" fill="none" stroke="#22a297" stroke-width="1"/>
+      <line id="Linha_31" data-name="Linha 31" x2="11.746" transform="translate(4.049 35.968)" fill="none" stroke="#22a297" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Linha_32" data-name="Linha 32" x2="1.511" transform="translate(22.47 35.968)" fill="none" stroke="#22a297" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect id="Retângulo_45" data-name="Retângulo 45" width="4.315" height="6.043" rx="2.157" transform="translate(6.022 4.399)" stroke-width="1" stroke="#22a297" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <rect id="Retângulo_46" data-name="Retângulo 46" width="4.315" height="6.043" rx="2.157" transform="translate(11.812 4.399)" stroke-width="1" stroke="#22a297" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <rect id="Retângulo_47" data-name="Retângulo 47" width="4.315" height="6.043" rx="2.157" transform="translate(17.765 4.399)" stroke-width="1" stroke="#22a297" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <path id="Caminho_28" data-name="Caminho 28" d="M1529.535,764.805v-3.23a.806.806,0,0,0-.806-.806h-2.7a.806.806,0,0,0-.806.806v4.431a.806.806,0,0,0,.353.671" transform="translate(-1519.198 -748.716)" fill="none" stroke="#22a297" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Caminho_29" data-name="Caminho 29" d="M1572.655,764.57v-2.954a.806.806,0,0,0-.806-.806h-2.7a.806.806,0,0,0-.806.806v3.126" transform="translate(-1556.528 -748.75)" fill="none" stroke="#22a297" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Caminho_30" data-name="Caminho 30" d="M1616.983,762.528v-.952a.806.806,0,0,0-.806-.806h-2.7a.806.806,0,0,0-.806.806v2.671" transform="translate(-1594.905 -748.716)" fill="none" stroke="#22a297" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Linha_33" data-name="Linha 33" x1="0.128" y1="19.624" transform="translate(23.89 18.211)" fill="none" stroke="#22a297" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Caminho_31" data-name="Caminho 31" d="M1510.78,952.77c.453,0,.453.806.905.806s.453-.806.906-.806.453.806.906.806.452-.806.9-.806.452.806.907.806.453-.806.905-.806.453.806.906.806.453-.806.906-.806.453.806.905.806.454-.806.906-.806.453.806.906.806.452-.806.906-.806.453.806.907.806.452-.806.9-.806.452.806.907.806.453-.806.906-.806.453.806.905.806.454-.806.906-.806.454.806.906.806.453-.806.907-.806.454.806.907.806.453-.806.906-.806" transform="translate(-1506.697 -914.933)" fill="none" stroke="#22a297" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Caminho_32" data-name="Caminho 32" d="M1509.6,887.87v6.355c0,.395-.1.537.2.743l-.055,1.612" transform="translate(-1505.661 -858.748)" fill="none" stroke="#22a297" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
