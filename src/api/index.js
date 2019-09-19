@@ -1,7 +1,7 @@
 import Axios from 'axios';
 
 const api = Axios.create({
-  baseURL: 'http://192.168.0.106:3000',
+  baseURL: 'http://192.168.0.102:3000',
 });
 
 export function verifyUserName(userName) {

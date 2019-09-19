@@ -140,8 +140,7 @@ export function changeScene(btn) {
   if (btn == 'MiddleBtn') {
     switch (scene) {
       case 'Login': {
-        //Logar
-        alert('Logar');
+        this.props.changeScene('Purchase');
         break;
       }
       case 'Register': {
@@ -149,6 +148,7 @@ export function changeScene(btn) {
           scene: 'Password',
           placeholderPrimaryInput: 'Senha',
           placeholderSecondInput: 'Confirmar Senha',
+          secureTextEntry: true,
           btnTextMiddleContainer: 'Continuar',
           btnTextBottomBtn: 'Voltar',
         })
@@ -160,6 +160,7 @@ export function changeScene(btn) {
           placeholderPrimaryInput: 'Cidade',
           placeholderSecondInput: 'Bairro',
           btnTextMiddleContainer: 'Continuar',
+          secureTextEntry: false,
           btnTextBottomBtn: 'Voltar',
         })
         break;
@@ -170,6 +171,7 @@ export function changeScene(btn) {
           placeholderPrimaryInput: 'Rua',
           placeholderSecondInput: 'Nº - Complemento',
           btnTextMiddleContainer: 'Continuar',
+          secureTextEntry: false,
           btnTextBottomBtn: 'Voltar',
         })
         break;
@@ -187,6 +189,7 @@ export function changeScene(btn) {
           scene: 'Login',
           placeholderPrimaryInput: 'Apelido',
           placeholderSecondInput: 'Senha',
+          secureTextEntry: true,
           btnTextMiddleContainer: 'Logar',
           btnTextBottomBtn: 'Cadastrar',
         });
@@ -198,6 +201,7 @@ export function changeScene(btn) {
           placeholderPrimaryInput: 'Nome',
           placeholderSecondInput: 'Apelido',
           btnTextMiddleContainer: 'Continuar',
+          secureTextEntry: false,
           btnTextBottomBtn: 'Voltar',
         });
         break;
@@ -207,6 +211,7 @@ export function changeScene(btn) {
           scene: 'Login',
           placeholderPrimaryInput: 'Apelido',
           placeholderSecondInput: 'Senha',
+          secureTextEntry: true,
           btnTextMiddleContainer: 'Logar',
           btnTextBottomBtn: 'Cadastrar',
         });
@@ -218,6 +223,7 @@ export function changeScene(btn) {
           placeholderPrimaryInput: 'Nome',
           placeholderSecondInput: 'Apelido',
           btnTextMiddleContainer: 'Continuar',
+          secureTextEntry: false,
           btnTextBottomBtn: 'Voltar',
         });
         break;
@@ -227,6 +233,7 @@ export function changeScene(btn) {
           scene: 'Password',
           placeholderPrimaryInput: 'Senha',
           placeholderSecondInput: 'Confirmar Senha',
+          secureTextEntry: true,
           btnTextMiddleContainer: 'Continuar',
           btnTextBottomBtn: 'Voltar',
         })
@@ -238,6 +245,7 @@ export function changeScene(btn) {
           placeholderPrimaryInput: 'Cidade',
           placeholderSecondInput: 'Bairro',
           btnTextMiddleContainer: 'Continuar',
+          secureTextEntry: false,
           btnTextBottomBtn: 'Voltar',
         })
         break;

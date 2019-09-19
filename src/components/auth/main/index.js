@@ -84,6 +84,7 @@ export default class Main extends Component {
       placeholderPrimaryInput: 'Apelido',
       placeholderSecondInput: 'Senha',
       btnTextBottomBtn: 'Logar',
+      secureTextEntry: true,
       sceneInMiddle: this.sceneStackToMiddle['Welcome'],
     });
 
@@ -145,6 +146,8 @@ export default class Main extends Component {
             onFocus={this.onFocusPassword.bind(this)}
             onEndEditing={this.onFocusPassword.bind(this)}
             onChangeText={this.onChangeText.bind(this)}
+            secureTextEntry={this.state.secureTextEntry}
+            city={this.state.city}
           />
 
           {this.state.scene != 'Welcome' ? (

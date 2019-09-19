@@ -93,7 +93,7 @@ export default class SingleScene extends React.Component {
             updateSceneState={this.updateOwnProps.bind(this)}
           />
 
-          {this.state.nextScene ? (
+          {this.state.nextScene && (
             <View style={{ left: width }}>
               <this.state.nextScene
                 SceneState={this.ownProps}
@@ -101,7 +101,7 @@ export default class SingleScene extends React.Component {
                 updateSceneState={this.updateOwnProps.bind(this)}
               />
             </View>
-          ) : null}
+          )}
         </Animated.View>
       );
     }
