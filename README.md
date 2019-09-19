@@ -94,7 +94,7 @@ Tem pra todo gosto.
 | -               | Kiwi                  | -                 |
 ---
 <div>
-  <img width="48%" src='assets/readme/Adicionais.gif' ></img>
+  <img width="48%" src='assets/readme/TratarAdcUsuario.gif' ></img>
   <img width="48%" src='assets/readme/NomeCopo.gif' ></img>
 </div>
 
