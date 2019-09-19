@@ -30,9 +30,10 @@ Desenhado e desenvolvido por mim, AcaiDelivery é uma base de aplicativo com ide
 ##### Atrelado sempre a seu nome verdadeiro
 O apelido pode te dar futuramente a possibilidade de criar uma promoção por fidelidade.  
 Essa funcionalidade ainda nao foi implementada!
+
 <div>
-  <img style='width: 40%; min-width: 180px; margin: 5px;' src='assets/readme/CriarUsuario.gif' ></img>
-  <img style='width: 40%; min-width: 180px; margin: 5px;' src='assets/readme/CriandoSenha.gif' ></img>
+  <img width="40%" src='assets/readme/CriarUsuario.gif' ></img>
+  <img width="40%" src='assets/readme/CriandoSenha.gif' ></img>
 </div>
 
 O usúario vai se logar usando seu apelido e senha  
@@ -47,8 +48,8 @@ Esse dado é conferido no servidor da aplicacao e redirecionado pra rota que vai
 Depois de ter escolhido a cidade onde você está localizado, você diz o nome da rua, bairro e numero da casa, assim na cozinha o pedido já chega pronto, automatizando e ganhando tempo na produção. O usúario pode alterar esse endereço no momendo de concluir o pedido.
 
 <div>
-  <img style='width: 40%; min-width: 180px; margin: 5px;' src='assets/readme/PegarCidade.gif' ></img>
-  <img style='width: 40%; min-width: 180px; margin: 5px;' src='assets/readme/Endereco.gif' ></img>
+  <img width="40%" src='assets/readme/PegarCidade.gif' ></img>
+  <img width="40%" src='assets/readme/Endereco.gif' ></img>
 </div>
 
 Depois do cadastro o usúario já é autenticado, seus dados são salvo no AsyncStorage podendo ser alterado futuramente na funcionalidade de configurações de perfil que ainda não foi implementada.
@@ -65,8 +66,8 @@ Depois do cadastro o usúario já é autenticado, seus dados são salvo no Async
 - Barca 1000ml - 6 Adicionais.
 
 <div>
-  <img style='width: 40%; min-width: 180px; margin: 5px;' src='assets/readme/CopoAdcGratis.gif' ></img>
-  <img style='width: 40%; min-width: 180px; margin: 5px;' src='assets/readme/CopoAdcMaior1.gif' ></img>
+  <img width="40%" src='assets/readme/CopoAdcGratis.gif' ></img>
+  <img width="40%" src='assets/readme/CopoAdcMaior1.gif' ></img>
 </div>
 
 ##### Os adicionais grátis pertence apenas aos adicionais de R$ 1,25
@@ -83,18 +84,18 @@ Depois do cadastro o usúario já é autenticado, seus dados são salvo no Async
 Olha só tem varios adicionais mesmo!  
 Tem pra todo gosto.
 
-| 2,50  | 1,50  | 1,25 |
-|---|---|---|---|---|
-| Nutela  | Choco Power Ball  | Granola  |
-| KitKat  | Gotas de Chocolate  | Leite Condensado  |
-| Baton  | Confete de Chocolate  | Leite Ninho  |
-| Sonho de Valsa  | Morango  | Paçoca  |
-| Bis  | Banana  | -  |
-| -  | Kiwi  | -  |
+|       2,50      |         1,50          |        1,25       |
+|        ---      |          ---          |         ---       |
+| Nutela          | Choco Power Ball      | Granola           |
+| KitKat          | Gotas de Chocolate    | Leite Condensado  |
+| Baton           | Confete de Chocolate  | Leite Ninho       |
+| Sonho de Valsa  | Morango               | Paçoca            |
+| Bis             | Banana                | -                 |
+| -               | Kiwi                  | -                 |
 ---
 <div>
-  <img style='width: 40%; min-width: 180px; margin: 5px;' src='assets/readme/Adicionais.gif' ></img>
-  <img style='width: 40%; min-width: 180px; margin: 5px;' src='assets/readme/NomeCopo.gif' ></img>
+  <img width="40%" src='assets/readme/Adicionais.gif' ></img>
+  <img width="40%" src='assets/readme/NomeCopo.gif' ></img>
 </div>
 
 ##### Na hora de finalizar o pedido voce pode escolher entre voltar e continuar pedindo ou pode concluir e confirmar o endereço para entrega do açai.
@@ -103,16 +104,16 @@ Tem pra todo gosto.
 Se escolher continuar montando um pedido de açai você vai passar pelas mesmas etapas de antes, dar um nome novo pra esse novo copo, e uma lista de copos é montada pra ser entregue a cozinha da aplicação.
 
 <div>
-  <img style='width: 40%; min-width: 180px; margin: 5px;' src='assets/readme/ContPedido.gif' ></img>
-  <img style='width: 40%; min-width: 180px; margin: 5px;' src='assets/readme/Finalizar.gif' ></img>
+  <img width="40%" src='assets/readme/ContPedido.gif' ></img>
+  <img width="40%" src='assets/readme/Finalizar.gif' ></img>
 </div>
 
 O endereço como citado mais acima vai poder ser alterado na hora do pedido.  
 Também vai existir a opção de editar o endereço nas configurações de usúarios.
 
 <div>
-  <img style='width: 40%; min-width: 180px; margin: 5px;' src='assets/readme/MudarEnde.gif' ></img>
-  <img style='width: 38.2%; min-width: 180px; margin: 5px;' src='assets/readme/DelivStatus.png' ></img>
+  <img width="40%" src='assets/readme/MudarEnde.gif' ></img>
+  <imgwidth="38.2%" src='assets/readme/DelivStatus.png' ></img>
 </div>
 
 Bom depois daqui é so dexar o serviço com o backend, a aplicação da cozinha e os profissionais que estão do outro lado do aplicativo C:  
