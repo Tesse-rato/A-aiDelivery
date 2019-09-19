@@ -83,14 +83,14 @@ Depois do cadastro o usúario já é autenticado, seus dados são salvo no Async
 Olha só tem varios adicionais mesmo!  
 Tem pra todo gosto.
 
-| 2,50  | 1,50  | 1,25 |
-|---|---|---|---|---|
-| Nutela  | Choco Power Ball  | Granola  |
-| KitKat  | Gotas de Chocolate  | Leite Condensado  |
-| Baton  | Confete de Chocolate  | Leite Ninho  |
-| Sonho de Valsa  | Morango  | Paçoca  |
-| Bis  | Banana  | -  |
-| -  | Kiwi  | -  |
+|       2,50      |         1,50          |        1,25       |
+|        ---      |          ---          |         ---       |
+| Nutela          | Choco Power Ball      | Granola           |
+| KitKat          | Gotas de Chocolate    | Leite Condensado  |
+| Baton           | Confete de Chocolate  | Leite Ninho       |
+| Sonho de Valsa  | Morango               | Paçoca            |
+| Bis             | Banana                | -                 |
+| -               | Kiwi                  | -                 |
 ---
 <div>
   <img style='width: 40%; min-width: 180px; margin: 5px;' src='assets/readme/Adicionais.gif' ></img>
@@ -120,8 +120,8 @@ O aplicativo da cozinha ainda nao foi criado, esse é um projeto ainda em andame
 
 # Contatos
 
-[**Facebook**](facebook.com/BrunoFrancaM)  
 [**Github**](github.com/Tesse-rato)  
 [**Linkedin**](linkedin.com/in/bruno-frança-2799b1166)  
+[**Facebook**](facebook.com/BrunoFrancaM)  
 [**Instagram**](instagram.com/salve_franca/)
 
