@@ -121,8 +121,8 @@ O aplicativo da cozinha ainda nao foi criado, esse é um projeto ainda em andame
 
 # Contatos
 
+[**Facebook**](facebook.com/BrunoFrancaM)  
 [**Github**](github.com/Tesse-rato)  
 [**Linkedin**](linkedin.com/in/bruno-frança-2799b1166)  
-[**Facebook**](facebook.com/BrunoFrancaM)  
 [**Instagram**](instagram.com/salve_franca/)
 
